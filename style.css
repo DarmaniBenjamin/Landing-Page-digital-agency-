@@ -70,7 +70,7 @@ main{
     text-transform: capitalize;
     width: 525px;
     font-size: 18px;
-    text-align: center;
+    text-align: left;
 }
 .hero button{
     margin-top: 40px;
