@@ -6,12 +6,16 @@
     box-sizing: border-box;
     font-family: 'Inter', sans-serif;
 }
-
+body{
+    display: flex;
+    flex-direction: column;
+}
 
 nav{
     max-width: 1440px;
     width: 1076;
     height: 28px;
+    margin: 0 auto;
     padding: 46px 150px;
     display: flex;
     justify-content: space-between;
